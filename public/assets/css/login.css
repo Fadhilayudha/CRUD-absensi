@@ -1,0 +1,19 @@
+/* body{
+    background-color: black;
+} */
+
+*{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.container{
+    border-radius: 12px;
+    margin-top: 150px ;
+    background-color:#f2f8fe;
+}
+
+.btn-login{
+   margin-bottom: 20px;
+   background-color: #2069f1;
+}
